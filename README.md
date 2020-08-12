@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Usman  👋
 
 ## I'm a Research Student, Kaggler, Data Enthusiast, and ML Engineer!
-- 🔭 I’m currently working on a [Kaggle competion][link]!
+- 🔭 I’m currently working on a [Birdcall Identification][link]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
