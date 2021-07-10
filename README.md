@@ -1,12 +1,12 @@
 ### Hi there, I'm Muhammad Usman  👋
 
 ## I'm a Research Student, Kaggler, Data Enthusiast, and ML Engineer!
-- 🔭 I’m currently working on a [Birdcall Identification][link]!
+- 🔭 I’m currently working as a DataScientist at [ADDO AI][link]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **usmanfarooq.ai@gmail.com**
-- ⚡ Fun fact: I love to Read and Socialize !
+- ⚡ Fun fact: I love to Read,Socialize and play Dota2 !
 
 ### Connect with me:
 
@@ -39,7 +39,7 @@
 
 ---
 
-[link]: https://www.kaggle.com/c/birdsong-recognition
+[link]: https://www.addo.ai/
 [website]: https://mohammadusmanfarooq.wordpress.com
 [twitter]: https://twitter.com/paulians619
 [instagram]: https://www.instagram.com/paulians619/?hl=en
