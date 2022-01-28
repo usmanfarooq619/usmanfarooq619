@@ -41,7 +41,8 @@
 #### Cloud
 - Azure
 - AWS
--
+- GCP
+
 <br />
 
 ---
