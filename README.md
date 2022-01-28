@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a DataScientist at [ADDO AI][link]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **usmanfarooq.ai@gmail.com**
 - ⚡ Fun fact: I love to Read,Socialize and play Dota2 !
 
@@ -34,7 +34,14 @@
 - Tensorflow
 - Pytorch
 - Git.
+- Docker
+- Airflow
+- kubeflow
 
+#### Cloud
+- Azure
+- AWS
+-
 <br />
 
 ---
